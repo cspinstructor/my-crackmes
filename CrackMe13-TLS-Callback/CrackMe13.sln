@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrackMe13", "CrackMe13\CrackMe13.vcxproj", "{EB46B3BC-3FFE-4348-A435-4AE5C2D40A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB46B3BC-3FFE-4348-A435-4AE5C2D40A80}.Debug|x64.ActiveCfg = Debug|x64
+		{EB46B3BC-3FFE-4348-A435-4AE5C2D40A80}.Debug|x64.Build.0 = Debug|x64
+		{EB46B3BC-3FFE-4348-A435-4AE5C2D40A80}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB46B3BC-3FFE-4348-A435-4AE5C2D40A80}.Debug|x86.Build.0 = Debug|Win32
+		{EB46B3BC-3FFE-4348-A435-4AE5C2D40A80}.Release|x64.ActiveCfg = Release|x64
+		{EB46B3BC-3FFE-4348-A435-4AE5C2D40A80}.Release|x64.Build.0 = Release|x64
+		{EB46B3BC-3FFE-4348-A435-4AE5C2D40A80}.Release|x86.ActiveCfg = Release|Win32
+		{EB46B3BC-3FFE-4348-A435-4AE5C2D40A80}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC0BEC8-FB5E-43C1-A499-E9A1A56B28BA}
+	EndGlobalSection
+EndGlobal

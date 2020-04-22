@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  CrackMe1.cpp
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CrackMe1.vcxproj -> C:\my-crackmes\CrackMe1\Release\CrackMe1.exe
